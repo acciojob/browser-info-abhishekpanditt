@@ -1,4 +1,4 @@
-var browserName = navigator.appName;
+	var browserName = navigator.appName;
 	var version = navigator.appVersion;
 
 	// Create the message
